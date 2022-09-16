@@ -35,7 +35,7 @@
 
 [![Aditi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aditi1515&theme=gotham)](https://github.com/aditi1515)
 
-<hr>
+<hr> 
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
