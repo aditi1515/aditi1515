@@ -20,6 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aditi-gemini-374109227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-gemini-374109227/" height="30" width="40" /></a>
+<a href="https://nados.io/profile/49f7ddb3-939a-4358-bd41-d086b01e0f37" target="blank"><img align="center" src="https://nados.io/assets/logo/nadosLightLogo.png" alt="https://nados.io/profile/49f7ddb3-939a-4358-bd41-d086b01e0f37" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditi152003?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aditi152003?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/aditi_gemini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditi_gemini/" height="30" width="40" /></a>
 </p>
