@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **react , next , MongoDB ,expressjs**
+- 💬 Ask me about **ReactJs , NextJs , MongoDB ,Expressjs**
 
 - 📫 How to reach me **aditi152003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19qF9hJX_FgrHkuZ7EQdGpXgaMJkgY-uL/view?usp=sharing](https://drive.google.com/file/d/19qF9hJX_FgrHkuZ7EQdGpXgaMJkgY-uL/view?usp=sharing)
 
-- ⚡ Fun fact **Everyday , I Learn new things .**
+- ⚡ **Everyday , I Learn new things .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
