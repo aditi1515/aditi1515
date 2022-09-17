@@ -17,12 +17,13 @@
 
 - ⚡ **Everyday , I Learn new things .**
 <br/>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aditi-gemini-374109227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-gemini-374109227/" height="30" width="40" /></a>
 <a href="https://nados.io/profile/49f7ddb3-939a-4358-bd41-d086b01e0f37" target="blank"><img align="center" src="https://nados.io/assets/logo/nadosLightLogo.png" alt="https://nados.io/profile/49f7ddb3-939a-4358-bd41-d086b01e0f37" height="30" width="90" /></a>
 <a href="https://www.hackerrank.com/aditi152003?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aditi152003?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/aditi_gemini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditi_gemini/" height="30" width="40" /></a>
+ <a href="mailto:aditi152003@gmail.com?subject=Hello%Aditi,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Aditi-Gemini" height="35" width="45" /></a>
 </p>
 <br/>
 
@@ -55,11 +56,6 @@
 <br>
 <hr>
 
-<h2 align="center">🔗 Connect With Me</h2>
-<div align="center">
-   <a target="_blank"href="[https://www.linkedin.com/in/aditi-gemini-374109227/](https://www.linkedin.com/in/aditi-gemini-374109227/)"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditi-Gemini" height="35" width="45" /></a>&nbsp;&nbsp;
-  <a href="mailto:aditi152003@gmail.com?subject=Hello%Aditi,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Aditi-Gemini" height="35" width="45" /></a>&nbsp;&nbsp;
- </div>
 
 <h2 align = "center">Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/aditi1515/count.svg" />
