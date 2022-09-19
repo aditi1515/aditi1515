@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aditi152003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19qF9hJX_FgrHkuZ7EQdGpXgaMJkgY-uL/view?usp=sharing](https://drive.google.com/file/d/19qF9hJX_FgrHkuZ7EQdGpXgaMJkgY-uL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UFjo-iOR5K7YxBv9OdoFcQMbFaGXcPVl/view?usp=sharing](https://drive.google.com/file/d/1UFjo-iOR5K7YxBv9OdoFcQMbFaGXcPVl/view?usp=sharing)
 
 - ⚡ **Everyday , I Learn new things .**
 <br/>
