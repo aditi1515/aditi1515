@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi1515&label=Profile%20views&color=0e75b6&style=flat" alt="aditi1515" /> </p>
 
 
-- 🔭 I’m currently working as Web Developer at "Azra Wellness Expert"
+- 🔭 I’m currently working as Web Developer at "Zymo"
 
 - 💬 Ask me about **ReactJs , NextJs , MongoDB ,Expressjs**
 
