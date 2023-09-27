@@ -5,13 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi1515&label=Profile%20views&color=0e75b6&style=flat" alt="aditi1515" /> </p>
 
 
-- 🔭 I’m currently working as Web Developer at "Zymo"
-
 - 💬 Ask me about **ReactJs , NextJs , MongoDB ,Expressjs**
 
 - 📫 How to reach me **aditi152003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TU80jk-hAHJ1Huw279Z1eN_0GizXWCUt/view?usp=share_link)
 
 - ⚡ **Everyday , I Learn new things .**
 <br/>
