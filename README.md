@@ -31,4 +31,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi1515" alt="aditi1515" /></a> </p>
 
-
