@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left" height="30" width="40"> <img src="https://img.freepik.com/free-vector/cute-girl-working-laptop-cartoon_138676-2958.jpg?w=740&t=st=1697036713~exp=1697037313~hmac=dc1f4064cdb60b013881ab69afd650af46797dccd38fc0dfedaf01a4e0de183a" alt="aditi1515" /> </p>
+<p align="left" height="10" width="30"> <img src="https://img.freepik.com/free-vector/cute-girl-working-laptop-cartoon_138676-2958.jpg?w=740&t=st=1697036713~exp=1697037313~hmac=dc1f4064cdb60b013881ab69afd650af46797dccd38fc0dfedaf01a4e0de183a" alt="aditi1515" /> </p>
 
 - 💬 Ask me about **React , Next Js**
 
