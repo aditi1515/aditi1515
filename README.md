@@ -1,4 +1,4 @@
-<div color="black">
+
   <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi1515&" alt="aditi1515" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi1515" alt="aditi1515" /></a> </p>
-</div>
+
 
