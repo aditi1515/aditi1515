@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
+<div color="black">
+  <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center"> <img  height="300" width="300" src="https://img.freepik.com/free-vector/young-woman-stretch-oneself-after-long-working-laptop-cartoon-illustration_56104-529.jpg?t=st=1697036713~exp=1697037313~hmac=9695ad02eba33bf07d81eee93a260a346744e2702e0d37fdde1cf70fbaa44ed6" alt="aditi1515" /> </p>
@@ -29,3 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi1515&" alt="aditi1515" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi1515" alt="aditi1515" /></a> </p>
+</div>
+
